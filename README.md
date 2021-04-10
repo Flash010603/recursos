@@ -1,4 +1,4 @@
-# Recursos utilizados que me gustaron.
+# Recursos utilizados para el desarrollo que me gustaron.
 
 
 * [__Loading IO__](https://loading.io) (Son loadings hechos con CSS)
